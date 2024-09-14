@@ -26,6 +26,5 @@ jobs:
       run: |
         python blog_generator.py
         git add .
-git commit -m "Updating workflow"
-git push origin main
+
 
